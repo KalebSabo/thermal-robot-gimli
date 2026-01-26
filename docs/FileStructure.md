@@ -1,4 +1,4 @@
-# Prospective File Structure
+# Working File Structure
 
 Project-Gimli/
 ├── README.md
