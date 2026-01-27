@@ -10,7 +10,7 @@ Gimli is a small-scale biped designed to teach servo control, basic gait generat
 - MPU6050 6-axis IMU for future tilt/balance feedback
 - Powered by a compact 7.4V 1200mAh 2S LiPo with PH2.0 connector and inline switch
 - Mostly 3D-printed structure (PLA prototypes, PETG for durability)
-- Open-loop sequenced walking (weight shift → step cycle) as starting point
+- Open-loop sequenced walking (weight shift -> step cycle) as starting point
 - Designed for easy expansion: add ankles, more DoF, ESP32 upgrade, dynamic gaits
 
 ## 3D Printing
@@ -22,7 +22,7 @@ Gimli is a small-scale biped designed to teach servo control, basic gait generat
 ## Software
 - Arduino IDE & C++
 - Libraries: Adafruit_PWMServoDriver, Wire (I2C), MPU6050 (future)
-- Initial code: open-loop sequenced poses → weight shift → step cycle
+- Initial code: open-loop sequenced poses -> weight shift -> step cycle
 - Future goals: add IMU tilt correction, smooth interpolation, basic turning
 
 ## License
