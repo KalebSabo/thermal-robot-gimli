@@ -10,6 +10,6 @@
 - A providor of CAE and multiphysics simulations
     - Offers: 3D Design, Electronics, Fluids, Optics and Structures
 
-### Gimli Sim Goals
-- Develop a digital twin
-- 3D print from a custom ANSYS design
+### FreeCAD
+- open-source and free Computer-Aided Design software
+    - Not as robust as ANSYS, but gets the job done
