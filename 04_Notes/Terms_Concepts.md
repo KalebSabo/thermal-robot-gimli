@@ -24,5 +24,5 @@
 ### Yaw
 - Rotation around the *Vertical axis*
     - Vertical axis: A line that runs from the top to the bottom of an object
-    -i.e. rudder in an airplane, Nose left/right
+    - i.e. rudder in an airplane, Nose left/right
 
