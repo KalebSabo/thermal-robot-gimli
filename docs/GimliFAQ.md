@@ -5,7 +5,7 @@
 - Current as of Jan. 2026
 
 ### What is Gimli?
-- Gimli is a bipedal ~1 ft (~30 cm) tall robot
+- Gimli is a bipedal ~1 ft (~30 cm) tall robot 3D printing companion
 
 ### Goals of Gimli?
 - Gimli is an introductory design into robotics
