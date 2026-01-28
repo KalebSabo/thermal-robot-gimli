@@ -10,6 +10,7 @@
 - A providor of CAE and multiphysics simulations
     - Offers: 3D Design, Electronics, Fluids, Optics and Structures
 
-### FreeCAD
-- open-source and free Computer-Aided Design software
-    - Not as robust as ANSYS, but gets the job done
+### NVIDIA Isaac Sim
+- More intensive and better scalability. Load 3D build into the system and test. 
+- Built for NVIDIA chips
+- Uploads in URDF or MJCF formats
