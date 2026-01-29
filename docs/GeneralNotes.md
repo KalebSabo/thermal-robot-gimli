@@ -4,7 +4,7 @@
 ## Design Methodology
 - Repeat this process for each major subsystem
     - i.e. single servo, single leg, full chasis, gait cycle etc.
-    
+
 ### Engineering Method
 - component-level validation → digital twin simulation → software integration → physical validation → refinement
 
