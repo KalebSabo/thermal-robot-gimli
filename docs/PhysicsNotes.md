@@ -1,10 +1,14 @@
 # Physics Notes
 - This file will focus on relavant physics and fundamental equations for the production of Gimli, aka first-principles thinking
 
+### Elements
+- 
+
 ### Density
 - quantifies mass of a substance per unit volume, how compact/concentrated a material is. 
 - $p = \frac{m}{V}$
 - SI unit = $\frac{kg}{m^3}$
+    - i.e. Aluminum is 2.699 grams/cm^3
 
 ### Gravity
 - The force that attracts all objects with mass towards each other.
