@@ -22,6 +22,7 @@
     - Gimli will be able to have attachments for operating in different environments. 
         - Earth: Convection/Conduction cooling panels (high atmosphere)
         - Space: Radiative cooling panels (no atmosphere)
+        - Moon: Radiative cooling panels (no/low atmosphere)
         - Mars: Mixture of both Earth/Space designs (low atmosphere)
     - Each iteration of the design should be able to easily disassemble/broken down into parts to then be 3D printed for the next stage in the sequence. Earth -> Space -> Mars etc.
     
