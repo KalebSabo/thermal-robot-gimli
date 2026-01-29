@@ -1,4 +1,5 @@
 # Working File Structure
+- **Current as of Jan. 2026**
 
 thermal-robot-gimli/
 ├── 01_Hardware/
