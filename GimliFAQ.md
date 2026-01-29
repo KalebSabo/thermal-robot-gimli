@@ -16,6 +16,7 @@
 ### Future/fun plans for Gimli?
 - Gimli the 3D Printing Companion
     - Designed to assist with general 3D printing where it can restock filament, remove/replace completed prints and alert to failed prints.
+    - This will have a cascade effect to start automating the Additive Manufacturing process to create bigger and better prints. 
 
 - Combine Thermal/Additive Manufacturing studies
     - Gimli will be able to have attachments for operating in different environments. 
