@@ -3,15 +3,23 @@
 
 thermal-robot-gimli/
 ├── 01_Hardware/
-│   └── BOM.md
-├── 02_STLs/
+│   ├── 01_MethodOfProcedure.md
+│   ├── 02_BOM.md
 │   └── Notes.md
-├── 04_Simulations/
+├── 02_Build/
+│   ├── 01_MethodOfProcedure.md
+│   └── Notes.md
+├── 03_Code/
+│   ├── 01_MethodOfProcedure.md
+│   └── Notes.md
+├── 04_PhysicTestSim/
+│   ├── 01_MethodOfProcedure.md
 │   └── Notes.md
 ├── docs/
 │   ├── FileStructure.md
-│   ├── GimliFAQ.md
+│   ├── GeneralNotes.md
 │   └── Terms_Concepts.md
+├── GimliFAQ.md
 ├── LICENSE
 └── README.md
 
