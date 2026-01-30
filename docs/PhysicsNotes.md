@@ -1,6 +1,18 @@
 # Physics Notes
 - This file will focus on relavant physics and fundamental equations for the production of Gimli, aka first-principles thinking
 
+### International System of Units (SI)
+- Units of measurements
+    - Base Units (where all other SI units are derived from)
+        - second for time (s)
+        - meter for length/distance (m)
+        - kilogram for mass (kg)
+        - ampere for electric current (A)
+        - kelvin for thermodynamic temperature (K)
+        - mole for amount of substance (mol)
+        - candela for luminous intensity (cd)
+- Set of mutually independent dimensions, dimensional analysis
+
 ### Atoms
 - Smallest unit of *matter*, that retains properties of elements
 - 3 subatomic particles
@@ -29,7 +41,8 @@
     - A useful algorithm for predicting the geometry of atoms
         - It breaks down in unique and complicated arrangements
 
-- ##### 
+- ##### Electron
+    - fundamental subatomic particle, carries an elementary negative charge
 
 #### Isotopes
 - An element with changes in the number of **Neutrons**
@@ -78,3 +91,5 @@
 ### Scientists
 - Michael Faraday (Ions)
 - William Whewell (Ions)
+- Lord Kelvin (Temperature)
+- Andre-Marie Ampere (Electricity)
