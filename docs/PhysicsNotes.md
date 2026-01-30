@@ -56,9 +56,15 @@
 - Governed by Ohm's Law
     - $ V = I*R $
         - $V$ = Voltage (Potential Difference/Force in charge)
+            - 
         - $I$ = Current/Amperage (How many electrons/Coulombs passing at a point per second)
+            - Proton Elementary charge ($e$) = $1.602*10^{-19}$ coulomb
+                - Electron/Proton are equal in magnitude? but opposite signs
+                    - hence electrically neutral atoms when equivalent electrons/protons
             - $1A = 1C/s = \frac{1}{1.602*10^{-19}}$ e/s = $\frac{10^{19}*e}{1.602s}$
-        - $R$ = Resistance (Difficulty in electrons to pass)
+            - Quarks etc. (Out of scope for Gimli)
+        - $R$ = Resistance (Difficulty in electrons to pass/friction)
+            - 
         - rate of flow quantified as amperage and limited by resistance, of electrons through conductive material
             - Conductive Material: 
                 - Contains **Valence Electrons** = 'extra/free' electrons
@@ -116,3 +122,7 @@
 - Lord Kelvin (Temperature)
 - Andre-Marie Ampere (Electricity)
 - J.J. Thomson (Electrons)
+
+### Measurement Tools
+- Voltmeter
+    - measure the voltage between two points in a system.
