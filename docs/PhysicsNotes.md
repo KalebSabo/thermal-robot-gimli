@@ -24,10 +24,12 @@
     - Anion **Adding an electron**
         - Atom is negatively charged
 
-#### Valence Shell Pair Repulsion Theory (VSEPR)
-- Accepted 
-- Atoms tend towards the most stable state
-    - 
+- ##### Valence Shell Pair Repulsion Theory (VSEPR) 
+    - Atoms tend towards the most stable state
+    - A useful algorithm for predicting the geometry of atoms
+        - It breaks down in unique and complicated arrangements
+
+- ##### 
 
 #### Isotopes
 - An element with changes in the number of **Neutrons**
