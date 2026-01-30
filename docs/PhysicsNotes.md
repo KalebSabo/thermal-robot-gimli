@@ -13,16 +13,25 @@
         - candela for luminous intensity (cd)
 - Set of mutually independent dimensions, dimensional analysis
 
+### Electrons
+- fundamental subatomic particle that carries a negative elementary electric charge 
+    - electric charge = $-1.602*10^{-19}$ coulombs
+    - mass = $9.109 * 10^{-31}$ kg 
+        - 'lightest known stable particle'
+- exhibit both particle/wave-like behaviors
+
+
+
 ### Atoms
 - Smallest unit of *matter*, that retains properties of elements
 - 3 subatomic particles
     - Neutrons( )/Protons(+)/Electrons(-)
         - Protons/Neutrons = Nucleus
         - Electrons = Electron Shells
-
+    
 ### Element
 - A **pure** substance made up of 1 type of atom. 
-- Defined by the number of protons in the nucleous.
+- Defined by the number of protons in the nucleus.
 - Each element is unique and cannot be broken down into simpler substances?
 - See the **Periodic Table** where it defines each element.
     - i.e. oxygen has 8 protons, hence it's atomic number is 8
@@ -41,8 +50,18 @@
     - A useful algorithm for predicting the geometry of atoms
         - It breaks down in unique and complicated arrangements
 
-- ##### Electron
-    - fundamental subatomic particle, carries an elementary negative charge
+### Electricity
+- Arises from the presence, motion and interactions of electric charges. Attraction/Repulsion.
+- A low-entropy form of energy
+- non-equilibrium thermodynamics
+- Governed by Ohm's Law
+    - $ V = I*R $
+        - $V$ = Voltage (Potential Difference in charge/entropy)
+        - rate of flow quantified as amperage and limited by resistance, of electrons through conductive material
+            - Conductive Material: 
+                - Contains **Valence Electrons** = 'extra/free' electrons
+
+
 
 #### Isotopes
 - An element with changes in the number of **Neutrons**
@@ -81,6 +100,7 @@
 
 #### Deep Space **~0 m/s/s**
 - Gravity is miniscule in deep space, distance (m) reduces gravity's effect squared
+    - $F$ = $G\frac{m_1 m_2}{r^2}$
     - no nearby mass = negligible acceleration
 
 #### Moon **~1.62 m/s/s**
@@ -93,3 +113,4 @@
 - William Whewell (Ions)
 - Lord Kelvin (Temperature)
 - Andre-Marie Ampere (Electricity)
+- J.J. Thomson (Electrons)
