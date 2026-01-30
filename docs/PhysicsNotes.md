@@ -1,8 +1,21 @@
 # Physics Notes
 - This file will focus on relavant physics and fundamental equations for the production of Gimli, aka first-principles thinking
 
-### Elements
-- 
+### Element
+- A **pure** substance made up of 1 type of atom. 
+- Defined by the number of protons in the nucleous.
+- Each element is unique and cannot be broken down into simpler substances?
+- See the **Periodic Table** where it defines each element.
+    - i.e. oxygen has 8 protons, hence it's atomic number is 8
+- Chemical properties stay the same based on **electron configuration**
+
+- #### Isotopes
+    - A different form of a particular element 
+    - Changes the number of **Neutrons** but protons remain the same
+        - Adding neutrons destabilizes the nucleaus, leading to radioactive decay
+            - i.e. beta-minus decay might cause a neutron to become a proton, effectively changing the element over time. 
+        - Look into neutron capture? (out of scope for gimli)
+    
 
 ### Density
 - quantifies mass of a substance per unit volume, how compact/concentrated a material is. 
