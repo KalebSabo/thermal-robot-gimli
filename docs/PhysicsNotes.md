@@ -55,8 +55,12 @@
 - non-equilibrium thermodynamics
 - Governed by Ohm's Law
     - $ V = I*R $
-        - $V$ = Voltage (Potential Difference/Force in charge)
-            - 
+        - $V$ = Voltage (Potential Difference/Tension/Pressure in charge)
+            - The build up of electric charge
+                - Electron Elementary charge ($e$) = $-1.602*10^{-19}$
+            - A physical scalar quantity
+            - The source, loss, dissipation, or storage of energy
+            - Higher Voltage -> Lower Voltage
         - $I$ = Current/Amperage (How many electrons/Coulombs passing at a point per second)
             - Proton Elementary charge ($e$) = $1.602*10^{-19}$ coulomb
                 - Electron/Proton are equal in magnitude? but opposite signs
@@ -122,6 +126,7 @@
 - Lord Kelvin (Temperature)
 - Andre-Marie Ampere (Electricity)
 - J.J. Thomson (Electrons)
+- Gustav Kirchoff (Voltage)
 
 ### Measurement Tools
 - Voltmeter
