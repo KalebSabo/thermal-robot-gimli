@@ -1,6 +1,13 @@
 # Physics Notes
 - This file will focus on relavant physics and fundamental equations for the production of Gimli, aka first-principles thinking
 
+### Atoms
+- Smallest unit of *matter*, that retains properties of elements
+- 3 subatomic particles
+    - Neutrons( )/Protons(+)/Electrons(-)
+        - Protons/Neutrons = Nucleus
+        - Electrons = Electron Shells
+
 ### Element
 - A **pure** substance made up of 1 type of atom. 
 - Defined by the number of protons in the nucleous.
@@ -9,13 +16,27 @@
     - i.e. oxygen has 8 protons, hence it's atomic number is 8
 - Chemical properties stay the same based on **electron configuration**
 
-- #### Isotopes
-    - A different form of a particular element 
-    - Changes the number of **Neutrons** but protons remain the same
-        - Adding neutrons destabilizes the nucleaus, leading to radioactive decay
-            - i.e. beta-minus decay might cause a neutron to become a proton, effectively changing the element over time. 
-        - Look into neutron capture? (out of scope for gimli)
+#### Ion 
+- An element with changes in the number of **Electrons**
+- Adding/Removing electrons causes a distortion/change in state of an atom
+    - Cation **Removing an electron**
+        - Atom is positively charged
+    - Anion **Adding an electron**
+        - Atom is negatively charged
+
+#### Valence Shell Pair Repulsion Theory (VSEPR)
+- Accepted 
+- Atoms tend towards the most stable state
+    - 
+
+#### Isotopes
+- An element with changes in the number of **Neutrons**
+    - Adding neutrons destabilizes the nucleus, leading to radioactive decay
+        - i.e. beta-minus decay might cause a neutron to become a proton, effectively changing the element over time. 
+    - Look into neutron capture? (out of scope for gimli)
     
+
+
 
 ### Density
 - quantifies mass of a substance per unit volume, how compact/concentrated a material is. 
@@ -50,3 +71,8 @@
 #### Moon **~1.62 m/s/s**
 - Mass = 
 
+
+
+### Scientists
+- Michael Faraday (Ions)
+- William Whewell (Ions)
