@@ -3,9 +3,12 @@
 
 ## Arduino Core
 - Primary microcontroller, handles the servo, sensor and locomotion control
-    - c++ programming
+    - c++/Python hybrid programming
     - .ino extension
 
-## List of Tests
-- Test each servo
-- 
+### Python
+- Easier but inefficient
+
+### C++
+- Difficult but efficient
+
