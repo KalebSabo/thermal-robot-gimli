@@ -1,5 +1,5 @@
-# Notes for STLs
-- This file will discuss the stl procurement/creation/modeling process
+# Notes for Build
+- This file will discuss the stl or 3D printing procurement/creation/modeling process
 
 ### FreeCAD
 - open-source and free Computer-Aided Design software
@@ -15,8 +15,10 @@
 ### Blender 
 - free versions, is heavier on the artistic side than simulation. 
 - Best for organic or artistic models
+    - Look into subdivisioning advantages etc.
 - Supports CAD add-ons
     - Perhaps a revist once Gimli is built for an **aesthetic upgrade**
+
 
 
 ### Fusion360
