@@ -54,19 +54,22 @@
 - A low-entropy form of energy
 - non-equilibrium thermodynamics
 - Governed by Ohm's Law
-    - $ V = I*R $
+    - $V = I*R$
+    - #### Voltage
         - $V$ = Voltage (Potential Difference/Tension/Pressure in charge)
             - The build up of electric charge
                 - Electron Elementary charge ($e$) = $-1.602*10^{-19}$
             - A physical scalar quantity
             - The source, loss, dissipation, or storage of energy
             - Higher Voltage -> Lower Voltage
+    - #### Current
         - $I$ = Current/Amperage (How many electrons/Coulombs passing at a point per second)
-            - Proton Elementary charge ($e$) = $1.602*10^{-19}$ coulomb
+            - "Net rate of flow of electric charge through a surface"
                 - Electron/Proton are equal in magnitude? but opposite signs
                     - hence electrically neutral atoms when equivalent electrons/protons
             - $1A = 1C/s = \frac{1}{1.602*10^{-19}}$ e/s = $\frac{10^{19}*e}{1.602s}$
             - Quarks etc. (Out of scope for Gimli)
+    - #### Resistance
         - $R$ = Resistance (Difficulty in electrons to pass/friction)
             - 
         - rate of flow quantified as amperage and limited by resistance, of electrons through conductive material
