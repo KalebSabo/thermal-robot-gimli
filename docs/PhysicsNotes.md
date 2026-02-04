@@ -3,15 +3,25 @@
 
 ### International System of Units (SI)
 - Units of measurements
-    - Base Units (where all other SI units are derived from)
-        - second for time (s)
-        - meter for length/distance (m)
-        - kilogram for mass (kg)
-        - ampere for electric current (A)
-        - kelvin for thermodynamic temperature (K)
-        - mole for amount of substance (mol)
-        - candela for luminous intensity (cd)
+- Base constants that can have an unlimited number of derivations
+    - Base Units
+        - **second** for time (s)
+        - **meter** for length/distance (m)
+        - **kilogram** for mass (kg)
+        - **ampere** for electric current (A)
+        - **kelvin** for thermodynamic temperature (K)
+        - **mole** for amount of substance (mol)
+        - **candela** for luminous intensity (cd)
+    
+            !['See SI units image in 05_Images'](..\05_Images\SI_units.png)
+
 - Set of mutually independent dimensions, dimensional analysis
+
+### Elementary Charge Carriers
+- Particles or Quasi-particles that carry an electric charge
+    - Electrons/Ions/Holes
+- Elementary Charges = $e$
+
 
 ### Electrons
 - fundamental subatomic particle that carries a negative elementary electric charge 
@@ -29,7 +39,7 @@
         - Electrons = Electron Shells
     
 ### Element
-- A **pure** substance made up of 1 type of atom. 
+- A **pure** substance made up of **1 type of atom**. 
 - Defined by the number of protons in the nucleus.
 - Each element is unique and cannot be broken down into simpler substances?
 - See the **Periodic Table** where it defines each element.
@@ -49,7 +59,7 @@
     - A useful algorithm for predicting the geometry of atoms
         - It breaks down in unique and complicated arrangements
 
-### Electricity
+## Electricity
 - Arises from the presence, motion and interactions of electric charges. Attraction/Repulsion.
 - A low-entropy form of energy
 - non-equilibrium thermodynamics
@@ -64,17 +74,60 @@
             - Higher Voltage -> Lower Voltage
     - #### Current
         - $I$ = Current/Amperage (How many electrons/Coulombs passing at a point per second)
+            - Amperage/Amp(s) = base SI unit (see above)
             - "Net rate of flow of electric charge through a surface"
                 - Electron/Proton are equal in magnitude? but opposite signs
-                    - hence electrically neutral atoms when equivalent electrons/protons
+                    - hence, electrically neutral atoms when equivalent electrons/protons
             - $1A = 1C/s = \frac{1}{1.602*10^{-19}}$ e/s = $\frac{10^{19}*e}{1.602s}$
+            - 1 Amp = 1 Coulomb per second
             - Quarks etc. (Out of scope for Gimli)
-    - #### Resistance
+    - #### Resistance/Conductance
         - $R$ = Resistance (Difficulty in electrons to pass/friction)
-            - 
-        - rate of flow quantified as amperage and limited by resistance, of electrons through conductive material
-            - Conductive Material: 
-                - Contains **Valence Electrons** = 'extra/free' electrons
+            - A measure of the opposition to the flow of electrons
+                - Can be measured on the **difficulty** or **ease** of electron passage (based on frame of reference)
+            - Electrical Resistance (Ohms $\Omega$) or Conductance (Siemans $S$)
+            - Resistance is dependant on material
+                - All objects are conductors
+                    - Ease of valence electron or ion movement determines if it is a good Conductor/Insulator
+        - ##### Temperature
+            - Influences motion of atoms/electrons, thus affects resistance
+                - Resistance $R = R_0(1 + \alpha(T - T_0))$
+                    - $R_0$ = Base Resistance at reference $T_0$
+                    - $\alpha$ = Temp Coefficient, material specific
+                        - how much resistance changes per degree of temp change for the specific material
+                        - Copper $\alpha$ = 0.00393/$\degree C$
+                - Temp sensors take advantage of this! (see Thermisistors)
+                - Limitations of equation
+                    - Extreme Temps need more precise measurements, as the linearity of the resistance change is assumed!
+                    - Superconductors are different
+                    - Impurities/Strain/Magnetic fields can alter $\alpha$
+
+
+### Electrical Wires
+
+- #### Wire Resistance
+    - Resistance $R = \rho \frac{L}{A}$
+        - $\rho$ = Resistivity of material (look at material properties)
+            - i.e. Silver $\rho = 1.59 * 10^-8 \Omega * m$
+        - $L$ = Length of wire (Electron Collisions)  
+        - $A$ = Cross-sectional area of the wire (Freedom of movement)
+
+- #### Current Density
+    - Measure of how many amps is passing in a particular area of a wire
+    - Current density can explain heating/efficiency/safety issues
+    - high density = overheating, low density = smooth flow
+        - Current Density $J = \frac{I}{A}$
+            - Current Density $J$ in Amperes/$m^2$
+            - $I$ = Total Current flowing in wire (Amps)
+            - $A$ = Cross-sectional area of the wire
+    - Typically $\vec{J}$ But were assuming a straight wire! Only need the scalar value 
+
+
+
+#### Semiconductor
+- Material with electrical conductivity between that of a conductor and an insulator
+    - Conductivity is modified by adding impurites to it's structure
+        - aka **Doping**
 
 
 
@@ -134,3 +187,5 @@
 ### Measurement Tools
 - Voltmeter
     - measure the voltage between two points in a system.
+- NTC Thermisistors (Negative Temperature Coefficient)
+    - measures the resistance drop as temp rises
