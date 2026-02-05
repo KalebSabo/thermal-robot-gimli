@@ -189,3 +189,5 @@
     - measure the voltage between two points in a system.
 - NTC Thermisistors (Negative Temperature Coefficient)
     - measures the resistance drop as temp rises
+
+    Test
