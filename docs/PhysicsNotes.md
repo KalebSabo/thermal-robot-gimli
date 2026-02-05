@@ -190,3 +190,4 @@
 - NTC Thermisistors (Negative Temperature Coefficient)
     - measures the resistance drop as temp rises
 
+test
