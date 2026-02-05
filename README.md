@@ -6,9 +6,13 @@ Gimli is a small-scale biped designed to teach servo control, basic gait generat
 
 ## Progress
 - Developing Electricity Notes
-- 3D Printer Ready
-- Learning FreeCAD/Developing workflow
+- **3D Printer Ready**
+- Learning FreeCAD
+- Developing End-to-End workflow
 - Researching Simulation Software 
+- Researching Bipedal Mechanics/Balance
+- Learning C++
+- Theorizing Python/C++ Combination Software (Arduino/Pi Crosstalk)
 - Testing BOM components individually by breadboard for defects
 
 
