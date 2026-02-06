@@ -3,10 +3,5 @@
 
 ## Current as of Jan. 2026
 
-### Programming
-- C++ 
 
-
-### AI Model (TBA)
-- 
 

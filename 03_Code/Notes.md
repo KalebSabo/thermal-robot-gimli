@@ -1,10 +1,14 @@
 # Notes on the Code for Gimli
 - This file will contain the notes for developing the codebase to   Gimli.
 
-## Arduino Core
-- Primary microcontroller, handles the servo, sensor and locomotion control
-    - c++/Python hybrid programming
-    - .ino extension
+## Arduino Uno R3 (Outdated)
+- c++/Python hybrid programming
+- .ino extension
+- 7-12V input - 5V operating
+
+## ESP32
+- Supports Wifi/Bluetooth
+- 3.3V 
 
 ### Python
 - Easier but inefficient

@@ -1,5 +1,5 @@
 # Material Notes
-- This file will focus on physical material characteristics of Gimli
+- This file will focus on physical/material characteristics of Gimli
 
 ### 3D Printing
 - aka Additive Manufacturing

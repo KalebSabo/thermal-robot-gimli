@@ -1,5 +1,5 @@
 # Physics Notes
-- This file will focus on relavant physics and fundamental equations for the production of Gimli, aka first-principles thinking
+- This file will focus on relevant physics and fundamental equations for the production of Gimli, aka first-principles thinking
 
 ### International System of Units (SI)
 - Units of measurements
@@ -122,14 +122,10 @@
             - $A$ = Cross-sectional area of the wire
     - Typically $\vec{J}$ But were assuming a straight wire! Only need the scalar value 
 
-
-
 #### Semiconductor
 - Material with electrical conductivity between that of a conductor and an insulator
     - Conductivity is modified by adding impurites to it's structure
         - aka **Doping**
-
-
 
 #### Isotopes
 - An element with changes in the number of **Neutrons**
@@ -137,9 +133,6 @@
         - i.e. beta-minus decay might cause a neutron to become a proton, effectively changing the element over time. 
     - Look into neutron capture? (out of scope for gimli)
     
-
-
-
 ### Density
 - quantifies mass of a substance per unit volume, how compact/concentrated a material is. 
 - $p = \frac{m}{V}$
