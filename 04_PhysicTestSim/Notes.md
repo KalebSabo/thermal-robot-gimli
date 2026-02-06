@@ -24,3 +24,4 @@
 ### Gazebo
 - open source, free, offline support, privacy/risk averse
 - Easily supports FreeCAD uploads
+- Needs Linux/Ubuntu, Windows experimental

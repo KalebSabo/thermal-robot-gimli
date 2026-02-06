@@ -22,6 +22,8 @@
     - Electrons/Ions/Holes
 - Elementary Charges = $e$
 
+### Diffusion
+- The net movement of anything generally from a region of higher concentration to a region of lower concentration.
 
 ### Electrons
 - fundamental subatomic particle that carries a negative elementary electric charge 
