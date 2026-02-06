@@ -7,7 +7,7 @@
 - Pulling a pin **"low"**
     - Means connecting to a low voltage level
         - often either 0 Volts (V) or Ground (GND)
-
+    - A reset
 
 
 ## Robotic

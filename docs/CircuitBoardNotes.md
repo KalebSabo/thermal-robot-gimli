@@ -1,8 +1,19 @@
 # Circuit Board Notes
 - This file will focus on the circuit board/electronic communication research of Gimli
 
+## Data
+- Values or Information
+    - There are differing types
+        - Raw Data
+            - unprocessed
+        - Structured Data
+            - JSON files, organized notes like this one
+        - Processed Data
+            - Data that has gone through a process (like an algorithm) and created an output
+
 ## Analog
-- 
+- type of signal or system that represents data as continuous, varying physical quantities
+    - like voltage, current or sound waves
 
 ## Digital
 - 
