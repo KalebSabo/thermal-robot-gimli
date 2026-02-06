@@ -22,9 +22,6 @@
     - Electrons/Ions/Holes
 - Elementary Charges = $e$
 
-### Diffusion
-- The net movement of anything generally from a region of higher concentration to a region of lower concentration.
-
 ### Electrons
 - fundamental subatomic particle that carries a negative elementary electric charge 
     - electric charge = $-1.602*10^{-19}$ coulombs
@@ -124,10 +121,13 @@
             - $A$ = Cross-sectional area of the wire
     - Typically $\vec{J}$ But were assuming a straight wire! Only need the scalar value 
 
-#### Semiconductor
+## Semiconductor
 - Material with electrical conductivity between that of a conductor and an insulator
     - Conductivity is modified by adding impurites to it's structure
         - aka **Doping**
+    - ##### **Dies (i.e. silicon die)** 
+        - a small thin slice/block (i.e. silicon) on which an entire integrated circuit is fabricated
+        - can hold things like the microprocessor/memory chip   
 
 #### Isotopes
 - An element with changes in the number of **Neutrons**

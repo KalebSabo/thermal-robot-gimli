@@ -1,7 +1,16 @@
 # **Terms and Concepts**
 - The goal of this file is to explain robotic engineering terms and concepts
 
-## Robotic Definitions
+## Circuit Board
+
+### Pins
+- Pulling a pin **"low"**
+    - Means connecting to a low voltage level
+        - often either 0 Volts (V) or Ground (GND)
+
+
+
+## Robotic
 
 ### Degrees of Freedom (DoF)
 - Number of independent ways a robot (or its limbs) can move

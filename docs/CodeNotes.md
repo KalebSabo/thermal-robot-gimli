@@ -10,6 +10,3 @@
 ## Crosstalk
 -
 
-## ESP32
-- 
-
