@@ -1,7 +1,7 @@
 # Working File Structure
 - **Current as of Jan. 2026**
 
-thermal-robot-gimli/
+thermal-robot-Eragon/
 ├── 01_Hardware/
 │   ├── 01_MethodOfProcedure.md
 │   ├── 02_BOM.md
@@ -19,13 +19,13 @@ thermal-robot-gimli/
 │   ├── FileStructure.md
 │   ├── GeneralNotes.md
 │   └── Terms_Concepts.md
-├── GimliFAQ.md
+├── EragonFAQ.md
 ├── LICENSE
 └── README.md
 
 # Reference File Structure
 
-Project-Gimli/
+Project-Eragon/
 ├── README.md
 ├── LICENSE
 ├── hardware/
@@ -33,7 +33,7 @@ Project-Gimli/
 │   ├── wiring-diagram.png      # breadboard/final wiring
 │   └── photos/                 # Assembly & walking photos
 ├── code/
-│   ├── gimli_biped.ino         # Main Arduino sketch
+│   ├── Eragon_biped.ino         # Main Arduino sketch
 │   └── libraries/              
 ├── stl/
 │   ├── servo-mount.stl

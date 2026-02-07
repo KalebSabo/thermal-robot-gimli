@@ -1,5 +1,5 @@
 # Structure Notes
-- This file will focus on the mechanical structure research for the production of Gimli
+- This file will focus on the mechanical structure research for the production of Eragon
 
 ## Mathematics
 

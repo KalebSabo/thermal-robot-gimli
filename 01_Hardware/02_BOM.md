@@ -1,4 +1,4 @@
-# Project Gimli – Bill of Materials (BOM)
+# Project Eragon – Bill of Materials (BOM)
 - Below is a reference! NOT what is actually being used.
   - i.e. using an ESP32 rather than an Arduino
 

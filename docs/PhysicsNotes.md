@@ -1,5 +1,5 @@
 # Physics Notes
-- This file will focus on relevant physics and fundamental equations for the production of Gimli, aka first-principles thinking
+- This file will focus on relevant physics and fundamental equations for the production of Eragon, aka first-principles thinking
 
 ### International System of Units (SI)
 - Units of measurements
@@ -79,7 +79,7 @@
                     - hence, electrically neutral atoms when equivalent electrons/protons
             - $1A = 1C/s = \frac{1}{1.602*10^{-19}}$ e/s = $\frac{10^{19}*e}{1.602s}$
             - 1 Amp = 1 Coulomb per second
-            - Quarks etc. (Out of scope for Gimli)
+            - Quarks etc. (Out of scope for Eragon)
     - #### Resistance/Conductance
         - $R$ = Resistance (Difficulty in electrons to pass/friction)
             - A measure of the opposition to the flow of electrons
@@ -133,7 +133,7 @@
 - An element with changes in the number of **Neutrons**
     - Adding neutrons destabilizes the nucleus, leading to radioactive decay
         - i.e. beta-minus decay might cause a neutron to become a proton, effectively changing the element over time. 
-    - Look into neutron capture? (out of scope for gimli)
+    - Look into neutron capture? (out of scope for Eragon)
     
 ### Density
 - quantifies mass of a substance per unit volume, how compact/concentrated a material is. 
@@ -143,7 +143,7 @@
 
 ### Gravity
 - The force that attracts all objects with mass towards each other.
-- A fundamental force that will *always* be acting on Gimli. 
+- A fundamental force that will *always* be acting on Eragon. 
 - *Everything* has a gravitational pull (affects spacetime), although most are assumed miniscule to irrelevant in calculations. 
     - Newton's Law of Universal Gravitation
         - The gravitational force between two masses is based on mass and distance to each other. 

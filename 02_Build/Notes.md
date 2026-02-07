@@ -17,7 +17,7 @@
 - Best for organic or artistic models
     - Look into subdivisioning advantages etc.
 - Supports CAD add-ons
-    - Perhaps a revist once Gimli is built for an **aesthetic upgrade**
+    - Perhaps a revist once Eragon is built for an **aesthetic upgrade**
 
 
 

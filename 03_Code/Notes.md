@@ -1,5 +1,5 @@
-# Notes on the Code for Gimli
-- This file will contain the notes for developing the codebase to   Gimli.
+# Notes on the Code for Eragon
+- This file will contain the notes for developing the codebase to Eragon.
 
 ## Arduino Uno R3 (Outdated)
 - c++/Python hybrid programming

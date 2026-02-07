@@ -1,25 +1,25 @@
-# Notes for Gimli
-- This file will focus writing notes on specifically Gimli and its current iteration.
+# Notes for Eragon
+- This file will focus writing notes on specifically Eragon and its current iteration.
 
 ### Update 
 - Current as of Feb. 2026
 
-### What is Gimli?
-- Gimli is a bipedal ~1 ft (~30 cm) tall robot 3D printing companion
+### What is Eragon?
+- Eragon is a bipedal ~1 ft (~30 cm) tall robot 3D printing companion
 
-### Goals of Gimli?
-- Gimli is an introductory design into robotics
+### Goals of Eragon?
+- Eragon is an introductory design into robotics
 
-### What stage is Gimli at?
-- Gimli is currently in the design/material procurement phase
+### What stage is Eragon at?
+- Eragon is currently in the design/material procurement phase
 
-### Future/fun plans for Gimli?
-- Gimli the 3D Printing Companion
+### Future/fun plans for Eragon?
+- Eragon the 3D Printing Companion
     - Designed to assist with general 3D printing where it can restock filament, remove/replace completed prints and alert to failed prints.
     - This will have a cascade effect to start automating the Additive Manufacturing process to create bigger and better prints. 
 
 - Combine Thermal/Additive Manufacturing studies
-    - Gimli will be able to have attachments for operating in different environments. 
+    - Eragon will be able to have attachments for operating in different environments. 
         - Earth: Convection/Conduction cooling panels (high atmosphere)
         - Space: Radiative cooling panels (no atmosphere)
         - Moon: Radiative cooling panels (no/low atmosphere)

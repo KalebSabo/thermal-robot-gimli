@@ -1,5 +1,5 @@
 # Circuit Board Notes
-- This file will focus on the circuit board/electronic communication research of Gimli
+- This file will focus on the circuit board/electronic communication research of Eragon
 
 ## Data
 - Values or Information
@@ -22,7 +22,7 @@
 - 
 
 ## Arduino Uno R3
-- Currently TBA for Gimli
+- Currently TBA for Eragon
 
 ## ESP32
 - ESP32 System-on-Chip (SoC)
