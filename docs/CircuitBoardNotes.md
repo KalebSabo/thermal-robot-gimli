@@ -21,6 +21,18 @@
 ## Resistor
 - 
 
+## Breadboard
+- Plastic board with holes connected by metal clips
+    - **Terminal Strips**
+        - Horizontal rows (from letters A-J)
+            - Each row connects horizontally, allowing up to 5 component to share a connection. 
+    - **Central Ravine**
+        - The 'ditch' between the two sides of the board
+            - separates electrically
+    - **Power Rails**
+        - Vertical columns along the edges
+            - Often marked with a red positive/black or blue negative sign
+
 ## Arduino Uno R3
 - Currently TBA for Eragon
 
@@ -39,3 +51,5 @@
             - CP2102 = Chip Model from Silicon Labs
             - DAC = Digital-to-Analog Convertor
             - EN = Enable
+
+
