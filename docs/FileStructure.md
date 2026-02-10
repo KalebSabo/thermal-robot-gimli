@@ -1,5 +1,5 @@
 # Working File Structure
-- **Current as of Jan. 2026**
+- **Current as of Feb. 2026**
 
 thermal-robot-Eragon/
 ├── 01_Hardware/
@@ -16,8 +16,7 @@ thermal-robot-Eragon/
 │   ├── 01_MethodOfProcedure.md
 │   └── Notes.md
 ├── docs/
-│   ├── FileStructure.md
-│   ├── GeneralNotes.md
+│   ├── FileStructure.mdf
 │   └── Terms_Concepts.md
 ├── EragonFAQ.md
 ├── LICENSE
