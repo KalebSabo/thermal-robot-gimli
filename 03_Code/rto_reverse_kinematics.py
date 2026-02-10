@@ -104,7 +104,8 @@ class RTOKinematics:
         
         # Calculate hip angle using law of cosines for the angle at the hip
         # First, find the angle from horizontal to the target
-        angle_to_target = math.atan2(y, x)  # Note: y not negated here
+        # Using standard atan2(y, x) where y-axis is positive up, negative down
+        angle_to_target = math.atan2(y, x)
         
         # Then find the angle correction using law of cosines
         # cos(angle_correction) = (L1^2 + distance^2 - L2^2) / (2 * L1 * distance)

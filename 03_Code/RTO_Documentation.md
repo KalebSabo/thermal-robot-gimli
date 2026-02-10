@@ -63,9 +63,9 @@ cos(θ_knee) = (L1² + L2² - distance²) / (2 × L1 × L2)
 
 #### Step 3: Calculate Hip Angle
 ```
-α = atan2(-y, x)  # Angle to target
-β = asin((L2 × sin(θ_knee)) / distance)  # Law of sines
-θ_hip = α - β
+α = atan2(y, x)  # Angle to target from horizontal
+β = acos((L1² + distance² - L2²) / (2 × L1 × distance))  # Law of cosines
+θ_hip = α + β
 ```
 
 ### Joint Limits
