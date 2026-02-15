@@ -12,9 +12,19 @@ Eragon is a small-scale biped designed to teach servo control, basic gait genera
 - Researching Simulation Software 
 - Researching Bipedal Mechanics/Balance
 - Learning C++
-- Theorizing Python/C++ Combination Software (Arduino/Pi Crosstalk)
+- Theorizing Python/C++ Combination Software (ESP32/Pi Crosstalk)
 - Testing BOM components individually by breadboard for defects
-
+<tr>
+    <td align="center">
+        <img src="./05_Images/Progress/ESP32building.jpg" 
+                alt= "ESP32 Building"
+                width="300"
+                height="300"
+                style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+                >
+            <br><strong>Current Progress:</strong><br>Building/Programming ESP32
+    </td>
+</tr>
 
 ## License
 MIT License — feel free to fork, modify, and build your own version!
